@@ -5,6 +5,6 @@ The program requires Python version 3.5.1 or later.
 
 Installing the program is done by copying the contents of the repository.
 
-The Resources folder contains files needed to work: interview texts (pushkin.txt) and a list of dialect words (dialectal.txt). Generated files appear in the Result folder (needs to be created manually)
+The Resources folder contains files needed to work: interview texts (pushkin.txt) and a list of dialect words (dialectal.txt). Generated files appear in the <i>Result</i> folder (needs to be created manually)
 
 The program is launched by executing the main.py file.
